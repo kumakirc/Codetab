@@ -3,7 +3,7 @@ package com.db;
 import java.util.Date;
 import org.apache.commons.lang.time.DateFormatUtils;
 
-public class App {
+public class A {
 
         public static void main(String[] args) {
                 System.out.println("Hello World Today is " + getToday());
